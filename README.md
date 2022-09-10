@@ -1,0 +1,2 @@
+# Qr-kod-generator
+ 
